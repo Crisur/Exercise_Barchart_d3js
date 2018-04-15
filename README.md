@@ -196,6 +196,9 @@ function appendChartBars()
 }
 
 ```
+### Final result:
+
+![alt text](https://github.com/Crisur/Exercise_Barchart_d3js/blob/master/Gr%C3%A1fica.PNG "Grahp")
 
 
 
